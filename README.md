@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NazifaMM
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning a fullStack Course 
 - 📫 You can reach me at nazifa.manir@gmail.com
 - 😄 Pronouns: Her
 - ⚡ Fun fact: I like watching anime  
